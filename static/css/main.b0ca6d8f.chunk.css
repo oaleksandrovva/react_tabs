@@ -1,0 +1,2 @@
+.list{display:-webkit-flex;display:flex;-webkit-flex-direction:row;flex-direction:row;grid-gap:15px;gap:15px}.list__item{list-style:none}.list__button{padding:10px 20px;font-weight:600;text-transform:uppercase;background-color:#fff}.list__button--active{color:red;border-color:#000}.App__title--red{color:red;text-transform:uppercase}
+/*# sourceMappingURL=main.b0ca6d8f.chunk.css.map */
